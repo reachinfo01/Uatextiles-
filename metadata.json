@@ -1,0 +1,6 @@
+{
+  "name": "UA Textiles",
+  "description": "Quality Wholesale & Retail Fabrics — Kantin Kwari Market, Kano. Shop Royal Shadda, Super Wax Atampa, Swiss Voile Lace, and Italian Cashmere Senator with nationwide waybill delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
